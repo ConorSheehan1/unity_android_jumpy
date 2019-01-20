@@ -4,11 +4,6 @@ using System;
 
 public class UserControls : MonoBehaviour {
 	public Rigidbody2D rb;
-	// ground
-	//public Transform groundCheck;
-	//public float groundCheckRandius;
-	//public LayerMask isGround;
-	//private bool onGround;
 
 	//space
 
